@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blesche.github.io/sitemap.html.gz
+Sitemap: https://blesche.github.io/app/sitemap.html.gz
+Sitemap: https://blesche.github.io/assets/sitemap.html.gz
+Sitemap: https://blesche.github.io/css/sitemap.html.gz
+Sitemap: https://blesche.github.io/data/sitemap.html.gz
+Sitemap: https://blesche.github.io/includes/sitemap.html.gz
+Sitemap: https://blesche.github.io/item/sitemap.html.gz
+Sitemap: https://blesche.github.io/src/sitemap.html.gz
